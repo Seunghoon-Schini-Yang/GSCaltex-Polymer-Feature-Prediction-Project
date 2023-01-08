@@ -1,4 +1,4 @@
-# GSCaltex-data-DNN-Modeling
+# GSCaltex-Polymer-Feature-Prediction-Project
 
 GS Caltex 연구소 데이터를 바탕으로, 복합수지 물성치 예측 프로그램을 개발하는 프로젝트 진행.
 Data 수는 총 811개로, 90개의 feature와 7개의 target으로 구성.
